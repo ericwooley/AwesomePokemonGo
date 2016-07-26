@@ -17,3 +17,8 @@ Fork, submit a pull request. I will review the tool and add it to the list.
 I don't condone bots, but they exist, and could be fun to play with. If you use your own account, there is a chance you will be **banned**.
 
 1. https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API
+
+## Communities
+1. [/r/pokemongo/ PokemonGo Subreddit](https://www.reddit.com/r/pokemongo/)
+2. [/r/pokemongodev Reverse engineering game/api](https://www.reddit.com/r/pokemongodev)
+3. [/r/thesilphroad Very indepth game discussion and such](https://www.reddit.com/r/thesilphroad)
