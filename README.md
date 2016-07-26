@@ -5,8 +5,8 @@ A collection of links of awesome pokemon go tools and utilities.
 Fork, submit a pull request. I will review the tool and add it to the list.
 
 ## Tracking
-1. [Pokemon Vision: Find nearby pokemon on a map.](https://pokevision.com/)
-2. [PokemonGo-DesktopMap: Like pokevision, but you use your own api keys, so there are less restrictions.](https://github.com/mchristopher/PokemonGo-DesktopMap)
+1. [Poke Vision: Find nearby pokemon on a map.](https://pokevision.com/)
+2. [PokemonGo-DesktopMap: Like Poke Vision, but you use your own api keys, so there are less restrictions.](https://github.com/mchristopher/PokemonGo-DesktopMap)
 
 
 ## Chat
