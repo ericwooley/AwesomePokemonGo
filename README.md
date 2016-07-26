@@ -10,8 +10,8 @@ Fork, submit a pull request. I will review the tool and add it to the list.
 
 
 ## Chat
-1. [Slack bot to alert you of nearby pokemon.](https://github.com/timwah/pokeslack)
-2. [Localized pokemon go chat](https://go.razerzone.com/)
+1. [RazerGo: Localized pokemon go chat](https://go.razerzone.com/)
+2. [Slack bot for nearby pokemon.](https://github.com/timwah/pokeslack)
 
 ## Bots
 I don't condone bots, but they exist, and could be fun to play with. If you use your own account, there is a chance you will be **banned**.
