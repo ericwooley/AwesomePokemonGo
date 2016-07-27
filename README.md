@@ -14,8 +14,8 @@ Fork, submit a pull request. I will review the tool and add it to the list.
 1. [RazerGo: Localized pokemon go chat](https://go.razerzone.com/)
 2. [Slack bot for nearby pokemon.](https://github.com/timwah/pokeslack)
 
-## Calculator
-1. [IV calculator](https://thesilphroad.com/research)
+## Calculators And Stats
+1. [Pokemon Stats, Move Stats, IV calculator](https://thesilphroad.com/research)
 2. [PoGoIV - Android only (not open source, use at your own risk)](https://www.reddit.com/r/TheSilphRoad/comments/4trry4/android_iv_calculator_app_pogoiv/?st=ir5eu176&sh=bc2e7d71)
 
 ## Bots
