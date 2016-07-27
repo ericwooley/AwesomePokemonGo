@@ -19,8 +19,9 @@ Fork, submit a pull request. I will review the tool and add it to the list.
 3. [Service Status](http://www.mmoserverstatus.com/pokemon_go)
 4. [Egg Statiscics](https://app.cmmcd.com/#/)
 5. [Poke Assistant - collection of calculators.](https://pokeassistant.com/)
+6. 
 ## ⇓ Use at your own risk ⇓
-The following 3rd part apps and scripts are things people have made. Be warned, using these can get you banned.
+The following 3rd part apps and scripts are things people have made. **warning**, using these can get you banned.
 
 ### Tracking
 1. [Poke Vision: Find nearby pokemon on a map.](https://pokevision.com/)
