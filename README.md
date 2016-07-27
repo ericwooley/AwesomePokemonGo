@@ -16,6 +16,8 @@ Fork, submit a pull request. I will review the tool and add it to the list.
 ### Calculators And Stats
 1. [Pokemon Stats, Move Stats, IV calculator](https://thesilphroad.com/research)
 2. [PoGoIV - Android only (not open source, use at your own risk. It does not request any permissions, so it would not be easy for it to get anything out of yoru phone.)](https://www.reddit.com/r/TheSilphRoad/comments/4trry4/android_iv_calculator_app_pogoiv/?st=ir5eu176&sh=bc2e7d71)
+3. [Service Status](http://www.mmoserverstatus.com/pokemon_go)
+4. [Egg Statiscics](https://app.cmmcd.com/#/)
 
 ## ⇓ Use at your own risk ⇓
 The following 3rd part apps and scripts are things people have made. Be warned, using these can get you banned.
